@@ -1,0 +1,19 @@
+.topbar-workspace {
+    &.active {
+        padding-left: 7px;
+        padding-right: 7px;
+    }
+    background-color: white;
+    min-height: 10px;
+    min-width: 5px;
+    border-radius: 10px;
+    padding-left: 3px;
+    padding-right: 3px;
+    margin: 6px 1px 6px 1px;
+
+    transition: all 0.3s;
+}
+
+.topbar {
+    padding: 5px;
+}
